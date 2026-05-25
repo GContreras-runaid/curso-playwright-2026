@@ -23,7 +23,7 @@ Sin necesidad de contar con cuenta en GitHub. Solo deben seguir estos 4 pasos en
 Descarga el código fuente a tu computadora:
 
 ```bash
-git clone https://github.com/mendezgarabetti/curso-playwright-2026.git
+git clone https://github.com/GContreras-runaid/curso-playwright-2026.git
 ```
 
 ### 2. Entrar a la carpeta
